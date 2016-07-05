@@ -1,0 +1,5 @@
+This game was developed by Akshay Pant(IMT2015005), Kushagra Khare(IMT2015022) and Krishna Nagaraja(IMT2015512) from International Institute of Bangalore, Bangalore (IIIT-B) as a part of their Python (Programming I) project at the end of first semester. The idea has been adapted from the reality TV show "Kon Banega Crorepati" aired on Star Plus.
+
+We would specially like to thank our Professor Mr. Sujit K. Chakrabarti and his TA Mr. Sunil K. Vengalil for his able guidance and support without whose help this project would not have been possible.
+
+Hope you have fun playing the game and win Rs. 5 Crores ;)
